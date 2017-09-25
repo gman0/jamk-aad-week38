@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Excercise3 - DeviantArt.com image viewer</string>
+    <string name="search_hint">Search for tags...</string>
+    <string name="search_btn">Search</string>
+</resources>
